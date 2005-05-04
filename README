@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1274
+
+[ Note: As of May 2005, this is included in Vim7 ]
+
+This is a simple file that allows rudimentary auto indenting of Mathematica code.  Combine it with vimscript #1273, it makes editing Mathematica package code a breeze.
